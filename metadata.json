@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-09T13:11:17.964709",
+  "base_dir": "C:\\Users\\Surya\\OneDrive\\Dokumen\\HESTI TRIU",
+  "output_dir": "C:\\Users\\Surya\\Downloads\\TRIU_DATA_KODE\\processed",
+  "viirs_files_used": [
+    "viirs-snpp_2012_Indonesia.csv",
+    "viirs-snpp_2013_Indonesia.csv",
+    "viirs-snpp_2014_Indonesia.csv",
+    "viirs-snpp_2015_Indonesia.csv",
+    "viirs-snpp_2016_Indonesia.csv",
+    "viirs-snpp_2017_Indonesia.csv",
+    "viirs-snpp_2018_Indonesia.csv",
+    "viirs-snpp_2019_Indonesia.csv",
+    "viirs-snpp_2020_Indonesia.csv",
+    "viirs-snpp_2021_Indonesia.csv",
+    "viirs-snpp_2022_Indonesia.csv",
+    "viirs-snpp_2023_Indonesia.csv",
+    "viirs-snpp_2024_Indonesia.csv"
+  ],
+  "summary": {
+    "total_hotspots_kaltim": 356581,
+    "total_events": 3297,
+    "total_burned_area_ha": 524513.9999999999,
+    "total_claimable_emissions_tco2": 875442.2779732419,
+    "mean_loss_per_event_idr": 8402806.304771926,
+    "calibration_factor": 0.006206609532726528,
+    "A_REGIONAL_ha": 11718040.0,
+    "R_SEQ_tCO2_ha_yr": 2.384363097412195,
+    "R_SEQ_source": "GROSS_REMOVALS_x_0.55"
+  }
+}

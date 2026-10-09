@@ -8,12 +8,11 @@ Kerangka **takaful parametrik** untuk melindungi pendapatan kredit karbon dari r
 Repositori ini mereproduksi paper:
 
 > **KafalaCarbon: A Parametric Takaful Framework for Wildfire-Induced Carbon Credit Reversal Risk in Indonesia**
-
+---
 Notes:
 Repositori ini dikelola oleh co-writer. Sesuai kesepakatan tim penulis, 
 hanya abstrak yang dipublikasikan. Full paper, data mentah, dan kode 
 lengkap tidak disertakan karena hak publikasi ada pada penulis utama.
----
 
 ## 📄 Abstrak
 
